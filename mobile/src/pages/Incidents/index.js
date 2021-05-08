@@ -33,12 +33,15 @@ export default function Incidents() {
 
         setLoading(true);
 
-        const response = await api.get('incidents', {
-            params: { page }
-        });
-
-        setIncidents([...incidents, ...response.data]);
-        setTotal(response.headers['x-total-count']);
+        await fetch("http://192.168.0.8:3333/pages")
+            .then(response => {
+                setTotal(response.headers['x-total-count']);
+                return response.data;
+            })
+            .then(data => {
+                setIncidents([...incidents, ...response.data]);
+            })
+        
         setPage(page + 1);
         setLoading(false);
     }
