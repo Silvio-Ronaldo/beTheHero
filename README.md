@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="" alt="Be The Hero Logo" height=100 />
+  <img src="https://github.com/Silvio-Ronaldo/beTheHero/blob/master/frontend/src/assets/logo.svg" alt="Be The Hero Logo" height=100 />
 </h1>
 
-<p align="center"><strong>🦸‍♀️ Be The Hero</strong></br>Developed at OmniStack#11</br>Practical project for study<p>
+<p align="center"><strong>🦸‍♀️ Be The Hero's goal is to connect people to NGOs who need help.</strong></br>Developed at OmniStack#11</br>Practical project for study<p>
 
 <p align="center">
   <a href="./LICENSE">
@@ -44,7 +44,7 @@
 
 
 <h2>📌 Status</h2>
-<h4 align="center">🦸‍♀️ Be The Hero is in development... 🚀</h4></br>
+<h4 align="center">🦸‍♀️ Be The Hero is complete. 🚀</h4></br>
 
 
 
@@ -74,23 +74,23 @@
 <h3>🎲 Running the backend server</h3>
 <ol>
   <li>In a terminal, clone this repository:
-    <p><code>git clone https://github.com/Silvio-Ronaldo/Ecoleta.git</code></p>
+    <p><code>git clone https://github.com/Silvio-Ronaldo/beTheHero.git</code></p>
   </li>
   <li>Enter the project folder:
-    <p><code>cd Ecoleta</code></p>
+    <p><code>cd beTheHero</code></p>
   </li>
   <li>Enter the server folder:
-    <p><code>cd server</code></p>
+    <p><code>cd backend</code></p>
   </li>
   <li>Install all dependencies:
     <p><code>yarn install</code> or <code>yarn</code></p>
   </li>
   <li>Start the database with Knex migrations:
-    <p><code>yarn knex:migrate</code></p>
-    <p><code>yarn knex:seed</code></p>
+    <p><code>yarn knex migrate:latest</code></p>
+    <p><code>yarn knex seed:run</code></p>
   </li>
   <li>Start the development server:
-    <p><code>yarn dev</code></p>
+    <p><code>yarn start</code></p>
   </li>
   <li>After these steps, the server should start at the <strong>3333</strong> port.</li>
 </ol></br>
@@ -98,12 +98,12 @@
 
 <h3>⚛️ Running the React app</h3>
 <ol>
-  <li>If you have already cloned the repository, proceed, otherwise, see step 1 in 'running the backend server'</li>
+  <li>If you have already cloned the repository, proceed, otherwise, see step 1 in 'Running the backend server'</li>
   <li>Enter the project folder:
-    <p><code>cd Ecoleta</code></p>
+    <p><code>cd beTheHero</code></p>
   </li>
   <li>Enter the web folder:
-    <p><code>cd web</code></p>
+    <p><code>cd frontend</code></p>
   </li>
   <li>Install all dependencies:
     <p><code>yarn install</code> or <code>yarn</code></p>
@@ -119,7 +119,7 @@
 <ol>
   <li>With the Expo installed, according to the documentation, follow</li>
   <li>Enter the project folder:
-    <p><code>cd Ecoleta</code></p>
+    <p><code>cd beTheHero</code></p>
   </li>
   <li>Enter the mobile folder:
     <p><code>cd mobile</code></p>
@@ -128,7 +128,7 @@
     <p><code>yarn install</code> or <code>yarn</code></p>
   </li>
   <li>Start the mobile development server:
-    <p><code>yarn start</code></p>
+    <p><code>yarn android</code> or <code>yarn ios</code> according to your emulator / device.</p>
   </li>
   <li>After these steps, the mobile application must start on your emulator or on your device, according to your choice.</li>
 </ol></br>
