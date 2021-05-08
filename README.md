@@ -93,6 +93,9 @@
     <p><code>yarn start</code></p>
   </li>
   <li>After these steps, the server should start at the <strong>3333</strong> port.</li>
+  <li>If you want to run the tests, do:
+    <p><code>yarn test</code></p>
+  </li>
 </ol></br>
 
 
