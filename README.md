@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://github.com/Silvio-Ronaldo/Ecoleta/blob/master/web/src/assets/logo.svg" alt="BeTheHero Logo" height=100 />
+  <img src="" alt="Be The Hero Logo" height=100 />
 </h1>
 
-<p align="center"><strong>Be The Hero</strong></br>Developed at OmniStack#11</br>Practical project for study<p>
+<p align="center"><strong>🦸‍♀️ Be The Hero</strong></br>Developed at OmniStack#11</br>Practical project for study<p>
 
 <p align="center">
   <a href="./LICENSE">
@@ -28,23 +28,23 @@
   📋 Table of contents
 </h2>
 <ul>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#-status">Status</a></li>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#%EF%B8%8F-demonstration">Demonstration</a></li>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#%EF%B8%8F-running-locally">Running Locally</a></li></br>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#-status">Status</a></li>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#%EF%B8%8F-demonstration">Demonstration</a></li>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#%EF%B8%8F-running-locally">Running Locally</a></li></br>
   <ul>
-    <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#-running-the-backend-server">Running Backend Server</a></li>  
-    <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#%EF%B8%8F-running-the-react-app">Running React App</a></li>
-    <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#-running-the-mobile-app">Running Mobile App</a></li></br>
+    <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#-running-the-backend-server">Running Backend Server</a></li>  
+    <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#%EF%B8%8F-running-the-react-app">Running React App</a></li>
+    <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#-running-the-mobile-app">Running Mobile App</a></li></br>
   </ul>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#%EF%B8%8F-technologies">Technologies</a></li>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#-author">Author</a></li>
-  <li><a href="https://github.com/Silvio-Ronaldo/Ecoleta#%EF%B8%8F-license">License</a></li>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#%EF%B8%8F-technologies">Technologies</a></li>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#-author">Author</a></li>
+  <li><a href="https://github.com/Silvio-Ronaldo/beTheHero#%EF%B8%8F-license">License</a></li>
 </ul></br>
 
 
 
 <h2>📌 Status</h2>
-<h4 align="center">🚧 Be The Hero is in development... 🚀</h4></br>
+<h4 align="center">🦸‍♀️ Be The Hero is in development... 🚀</h4></br>
 
 
 
@@ -140,33 +140,27 @@
 
 <h3>Backend</h3>
 <ul>
+  <li><a href="https://nodejs.org/en/">Node</a></li>
   <li><a href="http://knexjs.org">Knex</a></li>
   <li><a href="https://expressjs.com/pt-br/">Express</a></li>
-  <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
-  <li><a href="https://www.npmjs.com/package/multer">Multer</a></li>
+  <li><a href="https://github.com/arb/celebrate">Celebrate</a></li>
   <li><a href="https://www.sqlite.org/index.html">SQLite</a></li>
   <li><a href="https://www.npmjs.com/package/cors">Cors</a></li>
-  <li><a href="https://www.npmjs.com/package/ts-node-dev">ts-node-dev</a></li>
 </ul></br>
 
 <h3>Web</h3>
 <ul>
-  <li><a href="https://leafletjs.com">Leaflet</a></li>
   <li><a href="https://pt-br.reactjs.org">React</a></li>
-  <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
-  <li><a href="https://github.com/axios/axios">Axios</a></li>
-  <li><a href="https://react-leaflet.js.org">React-leaflet</a></li>
   <li><a href="https://react-icons.github.io/react-icons/">React Icons</a></li>
+  <li><a href="https://github.com/axios/axios">Axios</a></li>
 </ul></br>
 
 <h3>Mobile</h3>
 <ul>
-  <li><a href="https://expo.io">Expo</a></li>
   <li><a href="https://reactnative.dev">React Native</a></li>
-  <li><a href="https://www.typescriptlang.org">TypeScript</a></li>
+  <li><a href="https://expo.io">Expo</a></li>
+  <li><a href="https://docs.expo.io/versions/latest/sdk/mail-composer/">expo-mail-composer</a></li>
   <li><a href="https://reactnavigation.org">React Navigation</a></li>
-  <li><a href="https://github.com/react-native-maps/react-native-maps">React Native Maps</a></li>
-  <li><a href="https://github.com/react-native-svg/react-native-svg">React Native Svg</a></li>
   <li><a href="https://github.com/software-mansion/react-native-reanimated">React Native Reanimated</a></li>
 </ul></br>
 
