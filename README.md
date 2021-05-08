@@ -87,7 +87,6 @@
   </li>
   <li>Start the database with Knex migrations:
     <p><code>yarn knex migrate:latest</code></p>
-    <p><code>yarn knex seed:run</code></p>
   </li>
   <li>Start the development server:
     <p><code>yarn start</code></p>
