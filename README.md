@@ -66,7 +66,8 @@
   
 <h3>Mobile</h3>
   <p align="center">
-    <img src="./assets/usage.gif" alt="Be The Hero mobile" />
+    <img src="./assets/splash-be-the-hero.jpeg" alt="Be The Hero mobile" height=600 />
+    <img src="./assets/home-be-the-hero.jpeg" alt="Be The Hero mobile" height=600 />
   </p></br>
 
 
