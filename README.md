@@ -49,9 +49,19 @@
 
 
 <h2>🖥️ Demonstration</h2>
-<h3>Web</h3>
+<h3>Web Layout</h3>
   <p align="center">
-    <img src="./assets/home.gif" alt="Be The Hero web" />
+    <img src="./assets/layout.gif" alt="Be The Hero web layout" />
+  </p></br>
+  
+<h3>ONG Register</h3>
+  <p align="center">
+    <img src="./assets/register.gif" alt="Be The Hero ONG register" />
+  </p></br>
+  
+<h3>New Case</h3>
+  <p align="center">
+    <img src="./assets/new-case.gif" alt="Be The Hero web new case" />
   </p></br>
   
 <h3>Mobile</h3>
@@ -87,7 +97,6 @@
   </li>
   <li>Start the database with Knex migrations:
     <p><code>yarn knex migrate:latest</code></p>
-    <p><code>yarn knex seed:run</code></p>
   </li>
   <li>Start the development server:
     <p><code>yarn start</code></p>
